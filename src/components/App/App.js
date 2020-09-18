@@ -32,7 +32,7 @@ class App extends React.Component {
       height:500,
       transition:500,
       interval:4000,
-      indicators: true
+      indicators: false
 
     });
   }
