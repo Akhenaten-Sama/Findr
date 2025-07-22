@@ -12,8 +12,8 @@
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "ssr": "^0.2.18",
+    "react-scripts": "5.0.1",
+    "ssr": "^6.2.82",
     "whatwg-fetch": "^3.0.0"
   },
   "scripts": {
